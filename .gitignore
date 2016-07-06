@@ -1,0 +1,10 @@
+# Build Products
+liboptions.a
+example
+*.html
+
+# OS Files
+.DS_Store
+._*
+*~
+Thumbs.db
